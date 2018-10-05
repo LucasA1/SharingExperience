@@ -1,0 +1,2 @@
+C:\sharing\SharedHolograms-test\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\sharing\SharedHolograms-test\App\SharedHolograms\SharedHolograms.csproj;x86
